@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin:20px;
+}
+.khung{
+    border:1px solid black;
+    padding:10px;
+}
+.anh{
+    width:100%;
+    height:auto;
+}
+.title{
+    color:#780C28;
+    font-weight:bold;
+    position:absolute;
+    top:50px;
+    left:50%;
+    transform: trslateX(-50%);
+    text-align:center;
+    font-size:larger;
+}
+.content{
+    background-color:#A3D1C6;
+    padding:10px;
+    margin-top:10px;
+    text-align:justify;
+}
+.website{
+    color:#497D74;
+    font-style:italic;
+    text-align:right;
+}
